@@ -3,12 +3,15 @@
 ---
 
 The Attr's i want to have are
-Strength
-Dexterity
-Energy
-Intelligence
-Sanity
-Anxiety
+Strength - Used for well...strength checks
+Dexterity - used for dex checks, say someone has to jump over something or slide/crawl under something.
+
+Energy - How many actions a player can take in one turn of combat before being out of the battle, If you do not expend all energy it refreshes at half + what you had left over next turn.
+
+Intelligence - hacking, tech literacy, literacy.
+
+Sanity - This attribute determines how many situations that can raise anxiety stat / lower sanity before you start gaining anxiety
+
 
 Then there are Skill Attr's i want to have which are
 Combat prowess
