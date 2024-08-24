@@ -12,7 +12,7 @@ This is a project to try and create a tabletop system that can be used specifica
 ## Current working systems
 
 #### Mechanics
-- [Check System Alpha]]
+- [[spitball/Check system/Check System Alpha\|Check System Alpha]]
 - [[spitball/Mechanics/Sanity and anxiety\|Sanity and anxiety]]
 #### Player resources
 -  [[spitball/character creation/Character Sheets Alpha\|Character Sheets Alpha]]

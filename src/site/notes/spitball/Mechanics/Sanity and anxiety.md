@@ -11,6 +11,8 @@ These 2 mechanics work together to allow a dynamic difficulty, or can be used to
 ## What is the anxiety stat?
 The anxiety stat is a stat that raises when the character is in distress, such as being near an scp, a certain player or npc, or in the dark.
 
+The player would need to roll a d20 and add their anxiety attr' to the roll to see how much anxiety is gained 
+
 #### How do we Lose anxiety?
 Depending on the campaign it can be different
 
@@ -29,4 +31,7 @@ Multiple ways but the main way is to lose anxiety points. You MUST lower anxiety
 - Being around a campfire, lamp,or holding some kind of weapon/light 
 - Sleeping.
 - Resting in a predetermined or player made safepoint
-- 
+##### What happens when you get low sanity?
+Multiple things can happen since the range is of 100
+
+Starting at 100, sanity is fine
