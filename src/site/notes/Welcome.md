@@ -6,7 +6,7 @@ This is a project to try and create a tabletop system that can be used specifica
 
 
 #### Goals
-- Character creation
+- Character creation [[spitball/character creation/Character Sheets Alpha\|Character Sheets Alpha]]
 - psudo monster manual, or at least a small monster list
 - weapon list
 - check system, so roll for x to happen add x stat
