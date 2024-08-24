@@ -4,11 +4,17 @@
 
 This is a project to try and create a tabletop system that can be used specifically for SCP Themed campaigns
 
+- [ ] Character creation. 
+- [ ] Pseudo monster manual, or at least a small monster list
+- [ ] Loot tables
+- [ ] Oneshot
+- [ ] 
+## Current working systems
 
-#### Goals
-- Character creation [[spitball/character creation/Character Sheets Alpha\|Character Sheets Alpha]]
-- psudo monster manual, or at least a small monster list
-- weapon list
-- Loot tables
+#### Mechanics
 - [Check System Alpha]]
-- a oneshot for people to understand how the system works.
+- [[spitball/Mechanics/Sanity and anxiety\|Sanity and anxiety]]
+#### Player resources
+-  [[spitball/character creation/Character Sheets Alpha\|Character Sheets Alpha]]
+- [[spitball/character creation/Attribute system\|Attribute system]]
+
