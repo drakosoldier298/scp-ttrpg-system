@@ -10,8 +10,7 @@ Energy - How many actions a player can take in one turn of combat before being o
 
 Intelligence - hacking, tech literacy, literacy.
 
-Sanity - This attribute determines how many situations that can raise anxiety stat / lower sanity before you start gaining anxiety
-
+Sanity - This attribute determines how many situations that can raise anxiety stat / lower sanity  You can ignore before you start gaining anxiety, Restore on long rests.
 
 Then there are Skill Attr's i want to have which are
 Combat prowess
