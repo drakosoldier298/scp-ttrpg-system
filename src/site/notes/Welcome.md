@@ -8,7 +8,8 @@ This is a project to try and create a tabletop system that can be used specifica
 - [ ] Pseudo monster manual, or at least a small monster list
 - [ ] Loot tables
 - [ ] Oneshot
-- [ ] 
+
+[[Changelog\|Changelog]]
 ## Current working systems
 
 #### Mechanics

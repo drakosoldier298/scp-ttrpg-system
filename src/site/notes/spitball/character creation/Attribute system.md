@@ -8,15 +8,19 @@ Dexterity - used for dex checks, say someone has to jump over something or slide
 
 Energy - How many actions a player can take in one turn of combat before being out of the battle, If you do not expend all energy it refreshes at half + what you had left over next turn.
 
+Communication -  Allows you to passively obtain more information than others would. 
+
 Intelligence - hacking, tech literacy, literacy.
 
 Sanity - This attribute determines how many situations that can raise anxiety stat / lower sanity  You can ignore before you start gaining anxiety, Restore on long rests.
 
 Then there are Skill Attr's i want to have which are
-Combat prowess
-Literacy
-Communication
-Persuasion
+Combat prowess - Use of guns and other advanced weaponry, 
+ - Also gives more energy in specifically combat scenerios
+Literacy - Reading and hacking.
+
+Persuasion - Similiar to communication, Allows you to actively gain more information when talking to people/entities.
+
 Creativity
 Stealth
 Conflict deconstruction: a more specific persuasion such as calming animals. children, ect ect.
