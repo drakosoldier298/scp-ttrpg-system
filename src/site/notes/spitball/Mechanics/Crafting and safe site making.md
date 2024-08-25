@@ -7,8 +7,8 @@ Goals
 - [ ] A semi robust crafting system with examples of what works with what
 - [x] a simple inventory system
 - [x] Determine what objects could give what materials
-- [ ] what materials can be used to make what things
-- [ ] what things are not craftable
+- [x] what materials can be used to make what things
+- [x] what things are not craftable
 - [ ] what skill/attribute is associated with crafting.
 - [ ] How different amounts of said skill interact.\
 
@@ -61,6 +61,14 @@ As mentioned before it can be alot so ill only be giving examples in the table b
 | Table Leg |       | Nails  | Spiked Table leg(gains extra damage)                |
 | Table Leg | Knife | Tape   | Bayonetted Table Leg (gains extra reach and damage) |
 |           |       |        |                                                     |
+### What can't be crafted
+Things that would require intricate knowledge 
+
+Examples
+Guns, like *any* gun, 
+Flashights
+most electronics.
+Swords
 
 ## Safepoints
 

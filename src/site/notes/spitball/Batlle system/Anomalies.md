@@ -11,9 +11,13 @@ Designation means Passive, Neutral,Hostile
 | ---- | ----------- | ------ | ------ | ----------- | ---------- | ---- |
 |      |             |        |        |             |            |      |
 |      |             |        |        |             |            |      |
+|      |             |        |        |             |            |      |
 ## Items
 Designation means weapon, Tools,Material
 
 | Name       | Designation | Durability | Damage | Damage Type | Link           |
 | ---------- | ----------- | ---------- | ------ | ----------- | -------------- |
 | Memory Gun | Weapon      |            | 0      | Psychic     | [[spitball/Anomalies/Memory Gun\|Memory Gun]] |
+|            |             |            |        |             |                |
+|            |             |            |        |             |                |
+|            |             |            |        |             |                |
