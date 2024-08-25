@@ -33,7 +33,7 @@ Conflict deconstruction: a more specific persuasion such as calming animals. chi
 So lets run through examples of checks for these Attributes
 
 Lets say theres a large book about engineering a player wants to read, 
-Youd have them roll a d20 and then add literacy and Tech knowledge Or just intelligence.
+Youd have them roll a d10 and then add literacy and Tech knowledge Or just intelligence.
 
 Lets say theres a door that a player wants to brute force open, Roll a d20 and add Strength.
 
