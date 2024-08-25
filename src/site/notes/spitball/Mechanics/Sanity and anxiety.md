@@ -35,7 +35,13 @@ Multiple ways but the main way is to lose anxiety points. You MUST lower anxiety
 Multiple things can happen since the range is of 100
 
 Starting at 100, sanity is fine
-once reaching aroun 80 you starts being more aware of your surroundings causing you to take more anxiety
-once at 50 Scp's.Players, And npcs, that are hostile are more aware of your presence. Making sneaking harder
+once reaching around 80 you start being more aware of your surroundings causing you to take more anxiety
 
-30 and below, All hostile entities are constantly aware of your presence, making the only option, fight or flight.
+once at 50 Scp's, Players, And npcs, that are hostile are more aware of your presence. Making sneaking harder
+
+30 and below you start hallucinating constantly losing sanity rapidly
+
+20 and below, All hostile entities are constantly aware of your presence, making the only option, fight or flight.
+
+0 Complete immobilization, you are catatonic and prone, you cannot move, Other players must try to get you out of the situation.
+

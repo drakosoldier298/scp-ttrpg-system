@@ -3,7 +3,7 @@
 ---
 
 ###### Core attributes
-
+Have a low of 0 and a max of 10
 Strength - Used for well...strength checks
 
 Dexterity - used for dex checks, say someone has to jump over something or slide/crawl under something.
@@ -16,13 +16,15 @@ Intelligence - hacking, tech literacy, literacy.
 
 Sanity - This attribute determines how many situations that can raise anxiety stat / lower sanity  You can ignore before you start gaining anxiety, Restore on long rests.
 
-###### Then there are Skill Attr's i want to have which are
+###### Skill Attr's
+have a low of -5 and a max of 20
 Combat prowess - Use of guns and other advanced weaponry,  (int,str)
  - Also gives more energy in specifically combat scenerios +1 per 2 combat
  
 Literacy - Reading and hacking.
 
 Persuasion - Similiar to communication, Allows you to actively gain more information when talking to people/entities.
+
 
 Creativity - crafting.
 
