@@ -9,23 +9,7 @@ D&D uses a stat based system where you put points into strength charisma etc. et
 While that can be very good for an rgp where the goal is leveling and getting stronger, For an scp system i feel its be better to have character sheets be more about personality, allows the Game master to tweak campaigns to be horrifying to characters and make them difficult or fun within the scope of characters.
 
 This does not mean there arent stats for you to level up.
-## Attributes/Attrs
-The Attr's i want to have are
-Strength
-Dexterity
-Energy
-Intelligence
-Sanity
-Anxiety
-
-Then there are Skill Attrs i want to have which are
-Combat prowess
-Literacy
-Communication
-Persuasion
-Creativity
-Stealth
-Conflict deconstruction: a more specific persuasion such as calming animals. children, ect ect.
+[[spitball/character creation/Attribute system\|Attribute system]] 
 
 Something like the image below.
 ![Personality sheet.png](/img/user/assets/Personality%20sheet.png)

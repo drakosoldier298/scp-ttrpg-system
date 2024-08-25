@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spitball/character-creation/attribute-system/"}
 ---
 
-The Attr's i want to have are
+###### Core attributes
 
 Strength - Used for well...strength checks
 
@@ -16,8 +16,8 @@ Intelligence - hacking, tech literacy, literacy.
 
 Sanity - This attribute determines how many situations that can raise anxiety stat / lower sanity  You can ignore before you start gaining anxiety, Restore on long rests.
 
-Then there are Skill Attr's i want to have which are
-Combat prowess - Use of guns and other advanced weaponry, 
+###### Then there are Skill Attr's i want to have which are
+Combat prowess - Use of guns and other advanced weaponry,  (int,str)
  - Also gives more energy in specifically combat scenerios +1 per 2 combat
  
 Literacy - Reading and hacking.
