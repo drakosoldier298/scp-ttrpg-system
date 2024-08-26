@@ -9,7 +9,7 @@ Goals
 - [x] Determine what objects could give what materials
 - [x] what materials can be used to make what things
 - [x] what things are not craftable
-- [ ] what skill/attribute is associated with crafting.
+- [x] what skill/attribute is associated with crafting.
 - [ ] How different amounts of said skill interact.\
 
 ## Inventory
