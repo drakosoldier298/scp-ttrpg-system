@@ -7,11 +7,11 @@
 ## Entities
 Designation means Passive, Neutral,Hostile
 
-| Name | Designation | Health | Damage | Damage type | Initiative | Link |
-| ---- | ----------- | ------ | ------ | ----------- | ---------- | ---- |
-|      |             |        |        |             |            |      |
-|      |             |        |        |             |            |      |
-|      |             |        |        |             |            |      |
+| Name         | Designation     | Health | Damage | Damage type | Initiative | Link             |
+| ------------ | --------------- | ------ | ------ | ----------- | ---------- | ---------------- |
+| The Red Dogs | Neutral,Hostile | 250    | 8      |             |            | [[The Red Dogs\|The Red Dogs]] |
+|              |                 |        |        |             |            |                  |
+|              |                 |        |        |             |            |                  |
 ## Items
 Designation means weapon, Tools,Material
 

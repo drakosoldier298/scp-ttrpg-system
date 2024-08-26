@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/spitball/character-creation/attribute-system/"}
 ---
 
+### Health 
+Roll 3d6 and roll another d6 per level up 
+
 ###### Core attributes
 Have a low of 0 and a max of 10
 Strength - Used for well...strength checks
