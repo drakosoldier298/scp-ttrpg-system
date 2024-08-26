@@ -7,11 +7,11 @@
 ## Entities
 Designation means Passive, Neutral,Hostile
 
-| Name         | Designation     | Health | Damage | Damage type | Initiative | Link             |
-| ------------ | --------------- | ------ | ------ | ----------- | ---------- | ---------------- |
-| The Red Dogs | Neutral,Hostile | 250    | 8      | Slashing    | +2         | [[The Red Dogs\|The Red Dogs]] |
-|              |                 |        |        |             |            |                  |
-|              |                 |        |        |             |            |                  |
+| Name                | Designation     | Health   | Damage | Damage type | Initiative | Link                    |
+| ------------------- | --------------- | -------- | ------ | ----------- | ---------- | ----------------------- |
+| The Red Dogs        | Neutral,Hostile | 250      | 8      | Slashing    | +2         | [[spitball/Anomalies/The Red Dogs\|The Red Dogs]]        |
+| Clockwork mechanism | None            | Infinite | 0      | 0           | 0          | [[assets/Clockwork mechanism\|Clockwork mechanism]] |
+| The phantom         | Hostile         | 500      | 15     | Poison      | +5         | [[assets/The phantom\|The phantom]]         |
 ## Items
 Designation means weapon, Tools,Material
 
