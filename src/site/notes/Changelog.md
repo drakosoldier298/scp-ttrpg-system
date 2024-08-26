@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/changelog/"}
 ---
 
+8/26/2024 10am
+- added more detail to attribute system, increased max attributes to 15 to cover the new background system
+- added the armor system
+
 8/25/24 End of day
 - added anomalies
 - stats
