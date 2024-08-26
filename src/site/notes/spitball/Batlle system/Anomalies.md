@@ -9,7 +9,7 @@ Designation means Passive, Neutral,Hostile
 
 | Name         | Designation     | Health | Damage | Damage type | Initiative | Link             |
 | ------------ | --------------- | ------ | ------ | ----------- | ---------- | ---------------- |
-| The Red Dogs | Neutral,Hostile | 250    | 8      |             |            | [[The Red Dogs\|The Red Dogs]] |
+| The Red Dogs | Neutral,Hostile | 250    | 8      | Slashing    | +2         | [[The Red Dogs\|The Red Dogs]] |
 |              |                 |        |        |             |            |                  |
 |              |                 |        |        |             |            |                  |
 ## Items
