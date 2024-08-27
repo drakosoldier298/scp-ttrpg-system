@@ -35,7 +35,7 @@ So lets run through examples of checks for these Attributes
 Lets say theres a large book about engineering a player wants to read, 
 Youd have them roll a d10 and then add literacy and Tech knowledge Or just intelligence.
 
-Lets say theres a door that a player wants to brute force open, Roll a d20 and add Strength.
+Lets say theres a door that a player wants to brute force open, Roll a d10 and add Strength.
 
 All attr's added are up to the Game master to decide, or the player to discuss. 
 The only requirement is that you roll a d20 and then add whatever the number in your stat is.
