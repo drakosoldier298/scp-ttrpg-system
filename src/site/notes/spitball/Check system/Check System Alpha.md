@@ -18,7 +18,6 @@ Dexterity
 Energy
 Intelligence
 Sanity
-Anxiety
 
 Then there are Skill Attrs i want to have which are
 Combat prowess
@@ -27,7 +26,6 @@ Communication
 Persuasion
 Creativity
 Stealth
-Tech knowledge
 Conflict deconstruction: a more specific persuasion such as calming animals. children, ect ect.
 ### Examples
 So lets run through examples of checks for these Attributes
