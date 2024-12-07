@@ -6,7 +6,7 @@ Entity ????? The phantom
 
 This entity has been spotted around towns, and facilities stalking people. 
 It has the ability to walk through walls, and even grab people and pull them through walls,
-It's Been observed sometimes leaving people halfway between rooms immediately killing them
+It's Been observed sometimes leaving people partially inside objects almost immediately killing them, Leaving them with no way to be saved.
 
 
 Interaction is to be avoided at all cost.
