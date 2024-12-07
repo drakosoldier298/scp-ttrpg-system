@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-This is a project to try and create a tabletop system that can be used specifically for SCP Themed campaigns
+This is a project to try and create a tabletop system that can be used specifically for SCP Themed or horror campaigns
 
 - [ ] Character creation. 
 - [x] Pseudo monster manual, or at least a small monster list

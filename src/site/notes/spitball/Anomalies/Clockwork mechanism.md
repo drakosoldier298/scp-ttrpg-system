@@ -11,4 +11,4 @@ The 05 Reccomend not putting organic material inside as it tends to lead to deat
 
 
 ### Use case
-This anomaly shares similarity with scp 913 But instead of upgrading or downgrading items it directly combines them.
+This anomaly shares similarity with scp 914 But instead of upgrading or downgrading items it directly combines them.
