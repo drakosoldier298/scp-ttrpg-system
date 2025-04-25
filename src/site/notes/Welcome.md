@@ -30,6 +30,7 @@ This project is to Try and create a Tabletop RPG System that is modular and can 
 ### Alpha Version 2 
 a rewrite to be more clear and concise
 ### DM Handbook
+[[Alpha 2/Dm Handbook/Read Me\|Read Me]]
 - ##### Anomalies 
 - #### Battle System 
 - #### Mechanics 

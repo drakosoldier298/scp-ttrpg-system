@@ -21,5 +21,7 @@ You can learn more [[spitball/character creation/Attribute system\|Attribute sys
 These will level up as you progress and do things with them
 More information also in the [[spitball/character creation/Attribute system\|Attribute system]]
 
-I feel everything else is self explanatory
+I feel everything else is self explanatory![Character sheet V2.png](/img/user/assets/Character%20sheet%20V2.png)
+
+**OLD CHARACTER SHEET**
 ![SCP Character sheet.png](/img/user/assets/SCP%20Character%20sheet.png)]]
