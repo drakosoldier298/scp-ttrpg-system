@@ -75,3 +75,6 @@ These are very different from other skill attributes and double edged swords wit
 
 **Skittish** - You jump at the slightest movement, allowing you to notice things others normally wouldn't 
  - +5 to Perception rolls permanent -10 to Anxiety
+
+**Dissociative** - You tend to zone out during stressfull situations 
+ - +10 to anxiety -2 to perception and -2 to Persuasion 
