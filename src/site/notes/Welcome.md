@@ -13,11 +13,11 @@ This is a project to try and create a tabletop system that can be used specifica
 ## Current working systems
 #### Anomalies 
 
-- [[spitball/Batlle system/Anomalies\|Anomalies]]
+- [[spitball/Battle system/Anomalies\|Anomalies]]
 
 #### Battle system
-- [[spitball/Batlle system/Combat\|Combat]]
-- [[spitball/Batlle system/Weapons\|Weapons]]
+- [[spitball/Battle system/Combat\|Combat]]
+- [[spitball/Battle system/Weapons\|Weapons]]
 #### Mechanics
  - [[spitball/Mechanics/Materials\|Materials]]
 - [[spitball/Check system/Check System Alpha\|Check System Alpha]]

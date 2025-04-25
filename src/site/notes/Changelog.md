@@ -2,6 +2,14 @@
 {"dg-publish":true,"permalink":"/changelog/"}
 ---
 
+
+04/25/2025 
+- Made the Alpha V2 folders
+- started work on V2 of the check system
+- Created The recall and WorldWriter Anomalies with the help Of Violet
+
+Alot of this will be rewritten with better wording and a more clean look, I did alot of this when i was very tired or forcing myself to write, I will no longer be doing that which will cause things to take longer.
+
 8/28/2024 11am
 - added race section to the character creation folder
 8/26/2024 10am
