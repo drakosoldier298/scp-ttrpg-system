@@ -7,6 +7,7 @@ Roll 3d6 and roll another d6 per level up
 
 ###### Core attributes
 Have a low of 0 and a max of 15
+
 Strength - Used for well...strength checks
 
 Dexterity - used for dex checks, say someone has to jump over something or slide/crawl under something.

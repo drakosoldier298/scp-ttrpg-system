@@ -2,11 +2,17 @@
 {"dg-publish":true,"permalink":"/changelog/"}
 ---
 
-
-04/25/2025 
+04/25/2025 12pm
+- Updated Attributes V2
+04/25/2025 11am - 12 pm
+ - Fixed the character sheet image
+ - Added a readme to the V2 Dm handbook section
+ - Updated the link to be horror.daedreus.com to escape the scp labeling.
+04/25/2025 Before 11 am
 - Made the Alpha V2 folders
 - started work on V2 of the check system
 - Created The recall and WorldWriter Anomalies with the help Of Violet
+
 
 Alot of this will be rewritten with better wording and a more clean look, I did alot of this when i was very tired or forcing myself to write, I will no longer be doing that which will cause things to take longer.
 
