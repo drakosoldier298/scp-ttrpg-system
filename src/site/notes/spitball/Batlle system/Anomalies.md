@@ -5,7 +5,7 @@
 
 
 ## Entities
-Designation means Passive, Neutral,Hostile
+Designation means Passive, Neutral, Hostile
 
 | Name                | Designation     | Health   | Damage | Damage type | Initiative | Link                    |
 | ------------------- | --------------- | -------- | ------ | ----------- | ---------- | ----------------------- |
@@ -17,9 +17,9 @@ Designation means Passive, Neutral,Hostile
 ## Items
 Designation means weapon, Tools,Material
 
-| Name       | Designation | Durability | Damage | Damage Type | Link           |
-| ---------- | ----------- | ---------- | ------ | ----------- | -------------- |
-| Memory Gun | Weapon      |            | 0      | Psychic     | [[spitball/Anomalies/Memory Gun\|Memory Gun]] |
-|            |             |            |        |             |                |
-|            |             |            |        |             |                |
-|            |             |            |        |             |                |
+| Name            | Designation | Durability | Damage | Damage Type | Link            |
+| --------------- | ----------- | ---------- | ------ | ----------- | --------------- |
+| Memory Gun      | Weapon      |            | 0      | Psychic     | [[spitball/Anomalies/Memory Gun\|Memory Gun]]  |
+| The WorldWriter | Item        |            | 0      | Psychic     | [[spitball/Anomalies/WorldWriter\|WorldWriter]] |
+| Recall          | Item        |            | 0      | None        | [[spitball/Anomalies/Recall\|Recall]]      |
+|                 |             |            |        |             |                 |
