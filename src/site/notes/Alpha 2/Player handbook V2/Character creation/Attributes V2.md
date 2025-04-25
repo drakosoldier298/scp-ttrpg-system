@@ -42,7 +42,9 @@ Example If you lower Strength to -5 you can then increase an attribute by 5
 **Energy** - Determines the amount of actions A player can take during one turn of combat.
 If you do not expend all energy it refreshes at half + What you had left over next turn, This cannot exceed your base energy.
 
-**Sanity** - Determines how many situations that raise anxiety you can endure before negative affects begin. Restores on a long Rest
+**Sanity** - Works different from other Core Attributes and will get a more in depth explanation on its own page
+
+Determines how many situations that raise anxiety you can endure before negative affects begin. Restores on a long Rest
 
 
 #### Skill Attributes
@@ -51,11 +53,25 @@ Inherit the stat of their respective Core attribute.
 Players will Choose what they want their character to have, with a max of 2 (to be changed) Per core attribute
 
 ###### Strength attributes
-
+**Brute Force** - Used during tests of brute force, such as pulling open doors.
 ###### Dexterity Attributes
+**Sprint** 
+**Parkour** - Jumping across gaps, wall jumps, ect ect.
+**Stealth**
+**Lock Picking** - Requires tools like paperclips.  
 ###### Intelligence attributes
+**Perception**
+**Literacy**
+**Hacking**
+**Creativity** - Crafting
 
 ###### Communication attributes
-
+**Perception**
+**Persuasion**
+**Deception**
+**Conflict deconstruction**-  a more specific persuasion such as calming animals. children, sapient scp's ect ect.  (comm or int)
 ###### Sanity attributes
 These are very different from other skill attributes and double edged swords with an emphasis On negative.
+
+**Skittish** - You jump at the slightest movement, allowing you to notice things others normally wouldn't 
+ - +5 to Perception rolls permanent -10 to Anxiety
