@@ -20,9 +20,9 @@ Passive Will not attack at all. This does not mean they cannot do damage.
 
 
 
-| Name | Designation | Health | Damage | Damage Type | Initiative | Link |
-| ---- | ----------- | ------ | ------ | ----------- | ---------- | ---- |
-|      |             |        |        |             |            |      |
-|      |             |        |        |             |            |      |
-|      |             |        |        |             |            |      |
-|      |             |        |        |             |            |      |
+| Name                | Designation | Health   | Damage | Damage Type | Initiative | Link                       |
+| ------------------- | ----------- | -------- | ------ | ----------- | ---------- | -------------------------- |
+| Clockwork Mechanism | None        | Infinite | 0      | None        | None       | [[Alpha 2/Dm Handbook/Anomalies v2/Anomaly Folder/Clockwork Mechanism V2\|Clockwork Mechanism V2]] |
+|                     |             |          |        |             |            |                            |
+|                     |             |          |        |             |            |                            |
+|                     |             |          |        |             |            |                            |
