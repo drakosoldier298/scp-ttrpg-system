@@ -12,4 +12,4 @@ The typewriter never needs an ink refill.
 
 The only way to reverse the affects of the World Writer is to burn the paper, Once burned the person who burned it will hear the screams of the world for a few hours driving them insane. 
 
-On occasion this will attract other entities like [[spitball/Anomalies/The shadow\|The shadow]] and [[spitball/Anomalies/The phantom\|The phantom]]. 
+On occasion this will attract other entities like [[spitball/Anomalies/The Shadow\|The shadow]] and [[spitball/Anomalies/The phantom\|The phantom]]. 
