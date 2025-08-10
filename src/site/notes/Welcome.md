@@ -32,11 +32,13 @@ a rewrite to be more clear and concise
 ### DM Handbook
 [[Alpha 2/Read Me\|Read Me]]
 - ##### Anomalies 
+ - [[Alpha 2/Dm Handbook/Anomalies v2/Anomalies Table\|Anomalies Table]]
 - #### Battle System 
 - #### Mechanics 
-	- [[Alpha 2/Dm Handbook/Mechanics v2/Check system Alpha 2\|Check system Alpha 2]]
+ - [[Alpha 2/Dm Handbook/Mechanics v2/Check system Alpha 2\|Check system Alpha 2]]
 - #### World events
 ### Player Handbook
+ - [[Alpha 2/Player handbook V2/Character creation/Attributes V2\|Attributes V2]]
 #### Character creation
  
 #### Todo list

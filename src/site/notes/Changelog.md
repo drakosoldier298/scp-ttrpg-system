@@ -11,7 +11,7 @@
 04/25/2025 Before 11 am
 - Made the Alpha V2 folders
 - started work on V2 of the check system
-- Created The recall and WorldWriter Anomalies with the help Of Violet
+- Created The recall and WorldWriter Anomalies with the help Of Vi
 
 
 Alot of this will be rewritten with better wording and a more clean look, I did alot of this when i was very tired or forcing myself to write, I will no longer be doing that which will cause things to take longer.
