@@ -54,7 +54,7 @@ Multiple things happen when you have an encounter that cause you to gain anxiety
 
 The dm can give you anxiety points based on what they believe is correct.
 Or 
-The player would can roll 1-10d10 and remove the highest number to see how much anxiety is gained
+The player would can roll 1-10d10 to see how much anxiety is gained
 
 #### How do we Lose anxiety?
 Depending on the scenario it can be different
