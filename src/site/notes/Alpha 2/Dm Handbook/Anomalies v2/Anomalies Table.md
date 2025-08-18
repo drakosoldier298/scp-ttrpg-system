@@ -21,10 +21,13 @@ Passive Will not attack at all. This does not mean they cannot do damage.
 
 **Health is to be fixed eventually when i figure out how to actually balance Damage** 
 
-| Name        | Designation     | Health | Damage | Damage type | Initiative | Link               |
-| ----------- | --------------- | ------ | ------ | ----------- | ---------- | ------------------ |
-| The Phantom | Neutral,Hostile | 400    | 1d4    | Corrosive   | +2         | [[Alpha 2/Dm Handbook/Anomalies v2/Anomaly Folder/The Phantom V2\|The Phantom V2]] |
-|             |                 |        |        |             |            |                    |
+| Name        | Designation      | Health | Damage | Damage type | Initiative                  | Link               |
+| ----------- | ---------------- | ------ | ------ | ----------- | --------------------------- | ------------------ |
+| The Phantom | Neutral,Hostile  | 400    | 1d4    | Corrosive   | +2                          | [[Alpha 2/Dm Handbook/Anomalies v2/Anomaly Folder/The Phantom V2\|The Phantom V2]] |
+| The Shadow  | Neutral, Hostile | 400    | 1d8    | Physical    | +2                          | [[Alpha 2/Dm Handbook/Anomalies v2/Anomaly Folder/The Shadow V2\|The Shadow V2]]  |
+| Red Canids  | Neutral          | 800    | 2d4    | Physical    | +1(+1 per creature in pack) | [[Alpha 2/Dm Handbook/Anomalies v2/Anomaly Folder/Red Canids\|Red Canids]]     |
+|             |                  |        |        |             |                             |                    |
+|             |                  |        |        |             |                             |                    |
 
 #### Items
 

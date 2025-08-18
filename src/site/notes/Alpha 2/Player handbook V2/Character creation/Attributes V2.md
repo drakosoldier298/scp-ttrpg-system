@@ -42,7 +42,7 @@ Example If you lower Strength to -5 you can then increase an attribute by 5
 **Energy** - Determines the amount of actions A player can take during one turn of combat.
 If you do not expend all energy it refreshes at half + What you had left over next turn, This cannot exceed your base energy.
 
-**Sanity** - Works different from other Core Attributes and will get a more in depth explanation on its own page
+**Sanity** - Works different from other Core Attributes and will get a more in depth explanation on [its own page]([[Alpha 2/Dm Handbook/Mechanics v2/Sanity and anxiety v2\|Sanity and anxiety v2]])
 
 Determines how many situations that raise anxiety you can endure before negative affects begin. Restores on a long Rest
 
