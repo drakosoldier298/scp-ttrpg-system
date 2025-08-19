@@ -11,4 +11,4 @@ During our first interaction with Tempest-Z the sky turned red and it started ra
 
 It took several days to retrieve it, At the time we did not know how to contain it. So it did not take long for an entire Site to be taken over by another event.
 
-The second event took place at Site-<span style="background:#000000">Emerald</span> The walls started to melt as flesh peered from behind it, arms grabbing at any personnel they could, Assimilating any it grabbed, The site was burned to ash so that Tempest could be recieved.
+The second event took place at Site-<span style="background:#000000"><font color="#000000">Emerald</font></span> The walls started to melt as flesh peered from behind it, arms grabbing at any personnel they could, Assimilating any it grabbed, The site was burned to ash so that Tempest could be recieved.
