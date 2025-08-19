@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/changelog/"}
 ---
 
+08/18/25 10pm 
+- so much was worked on ill list what i remember from today
+- Tempest v2, tempest-a Tempest-z
+- Red canids
+- Sanity and anxiety V2
+- Character sheet v5 was finished
+
 04/25/2025 12pm
 - Updated Attributes V2
 04/25/2025 11am - 12 pm
