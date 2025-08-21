@@ -8,7 +8,7 @@ The facility has no name for this creature, it is being named after what it seem
 # Description
 It is seemingly a normal Daddy long legs spider until there is a group where it rapidly starts taking the form of a face.
 
-The few researchers Who have seen this event take place have said that it spoke to them, talking about how their lives will end, many tried to quit, or kill others. 
+The few researchers Who have seen this event take place have said that it spoke to them, talking about how their lives will end, many tried to quit, or Self-Terminate. 
 
 The first Instance of these creatures were burned.
 

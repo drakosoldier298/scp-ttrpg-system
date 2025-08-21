@@ -19,6 +19,8 @@ So a lot of words are used only or primarily inside of the TTRPG communities. I 
 	**Dungeon master** was popularized By Dungeons and dragons, While **Game Master** is used in almost everything else. 
 	You will see me use both interchangeably, I'm sorry it will likely be annoying. 
 	
+	These are shortened to DM and GM respectively
+	
 
 **Metagaming** 
 	Metagaming is using Real life knowledge that Your character in game should not know. Normally to the advantage of the player and the frustration of the Game master.

@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/changelog/"}
 ---
 
+8/20/25 
+- changed to using the "things" theme
+ 
+
 08/18/25 10pm 
 - so much was worked on ill list what i remember from today
 - Tempest v2, tempest-a Tempest-z

@@ -47,7 +47,7 @@ a rewrite to be more clear and concise
 - [ ] complete Anomalies V2
 - [ ] Complete Mechanics V2
 - [ ] Complete World Events V2
-- [ ] Create more to the Player Handbook
+- [/] Create more to the Player Handbook
 - [ ] Create more to the Dm/Gm Handbook
 - [x] Character creation. 
 - [x] Pseudo monster manual, or at least a small monster list
